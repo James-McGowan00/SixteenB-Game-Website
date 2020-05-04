@@ -3451,7 +3451,7 @@ input, select, textarea {
 
 	#banner {
 		background-attachment: fixed;
-		background-image: url("../../images/Portal.png");
+		background-image: url("../../images/banner.png");
 		background-position: center center;
 		background-size: cover;
 		min-height: 100vh;
